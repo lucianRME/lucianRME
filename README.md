@@ -1,27 +1,65 @@
-# Hi, I'm Lucian 👋
+# Hi, I'm Lucian Irimie 👋
 
-Technical Program Manager focused on Delivery Governance, Enterprise AI, and Platform Enablement.
+**Technical Program Manager | Delivery Governance | Enterprise AI | Platform Enablement**
 
-I build practical tools around Jira, delivery governance, and AI-assisted workflows.
+I work at the intersection of enterprise delivery, platform operations, Jira governance, and practical AI tooling.  
+I build tools and workflows that improve visibility, reduce delivery friction, and turn fragmented work into structured execution.
 
-## What I work on
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucianirimie/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucian%20Irimie-blue?logo=linkedin" />
+  </a>
+  <a href="https://lucianirimie.com">
+    <img src="https://img.shields.io/badge/Website-lucianirimie.com-black?logo=google-chrome" />
+  </a>
+  <a href="https://synapseworks.org">
+    <img src="https://img.shields.io/badge/SynapseWorks-Products-purple?logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lucianRME&label=Profile%20views&color=blue" />
+</p>
 
-- Delivery governance and platform enablement
-- Jira / Atlassian tooling
-- AI-assisted workflow automation
-- Product experiments under SynapseWorks
+---
 
-## Projects
+## What I focus on
+
+- Delivery governance and execution visibility
+- Jira / Atlassian workflows, automation, and reporting
+- Enterprise AI use cases for delivery and operations
+- Platform enablement across product, engineering, and business teams
+- Building small practical tools before scaling ideas
+
+---
+
+## Current projects
+
+### SynapseWorks
+Product experiments focused on AI-assisted delivery governance and workflow automation.
 
 - [SynapseWorks](https://synapseworks.org)
 - [Synapse – AI Jira Refinement Tool](https://synapseworks.org/products/)
 - [Decision Register for Jira](https://synapseworks.org/products/)
 - [Submit Guard – Chrome Extension](https://synapseworks.org/products/browser-tools/)
-- [Personal website](https://lucianirimie.com)
+
+---
+
+## Tech and tools I work with
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forge-0052CC?logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Tools-412991?logo=openai&logoColor=white" />
+</p>
+
+---
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/lucianirimie/)
-- [Website](https://lucianirimie.com)
-- [SynapseWorks](https://synapseworks.org)
-- [GitHub](https://github.com/lucianRME)
+- LinkedIn: [linkedin.com/in/lucianirimie](https://www.linkedin.com/in/lucianirimie/)
+- Website: [lucianirimie.com](https://lucianirimie.com)
+- Products: [synapseworks.org](https://synapseworks.org)
