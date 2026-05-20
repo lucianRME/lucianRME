@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Lucian 👋
 
-<!--
-**lucianRME/lucianRME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Program Manager focused on Delivery Governance, Enterprise AI, and Platform Enablement.
 
-Here are some ideas to get you started:
+I build practical tools around Jira, delivery governance, and AI-assisted workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Delivery governance and platform enablement
+- Jira / Atlassian tooling
+- AI-assisted workflow automation
+- Product experiments under SynapseWorks
+
+## Projects
+
+- [SynapseWorks](https://synapseworks.org)
+- [Synapse – AI Jira Refinement Tool](https://synapseworks.org/products/)
+- [Decision Register for Jira](https://synapseworks.org/products/)
+- [Submit Guard – Chrome Extension](https://synapseworks.org/products/browser-tools/)
+- [Personal website](https://lucianirimie.com)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/lucianirimie/)
+- [Website](https://lucianirimie.com)
+- [SynapseWorks](https://synapseworks.org)
+- [GitHub](https://github.com/lucianRME)
