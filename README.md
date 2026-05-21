@@ -15,6 +15,9 @@ I build tools and workflows that improve visibility, reduce delivery friction, a
   <a href="https://synapseworks.org">
     <img src="https://img.shields.io/badge/SynapseWorks-Products-purple?logo=github" />
   </a>
+  <a href="https://github.com/sponsors/lucianRME">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=lucianRME&label=Profile%20views&color=blue" />
 </p>
 
