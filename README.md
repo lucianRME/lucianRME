@@ -1,9 +1,10 @@
 # Hi, I'm Lucian Irimie 👋
 
-**Technical Program Manager | Delivery Governance | Enterprise AI | Platform Enablement**
+**Technical Program Manager | Enterprise Platforms | Delivery Governance & AI Transformation**
 
-I work at the intersection of enterprise delivery, platform operations, Jira governance, and practical AI tooling.  
-I build tools and workflows that improve visibility, reduce delivery friction, and turn fragmented work into structured execution.
+I work at the intersection of enterprise delivery, platform operations, delivery governance, and practical technology products.
+
+I help turn fragmented initiatives into structured execution through cross-team coordination, dependency management, workflow automation, and clear delivery visibility. I also build privacy-first and AI-assisted tools for mobile, browser, and enterprise workflows.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucianirimie/">
@@ -25,18 +26,32 @@ I build tools and workflows that improve visibility, reduce delivery friction, a
 
 ## What I focus on
 
-- Delivery governance and execution visibility
-- Jira / Atlassian workflows, automation, and reporting
-- Enterprise AI use cases for delivery and operations
-- Platform enablement across product, engineering, and business teams
-- Building small practical tools before scaling ideas
+- Technical program delivery across product, engineering, and business teams
+- Delivery governance, dependency management, and execution visibility
+- Enterprise platforms, workflow automation, and operational improvement
+- Practical AI use cases for delivery and business operations
+- Privacy-first product development and local-first tooling
+- Building focused, useful tools before scaling ideas
 
 ---
 
 ## Current projects
 
+### PageHarbor
+
+An open-source, privacy-first Android document scanner designed around local processing and user-controlled storage.
+
+- No ads
+- No tracking
+- No account required
+- No proprietary cloud backend
+- Offline-first where practical
+
+[View PageHarbor on GitHub](https://github.com/lucianRME/pageharbor-android)
+
 ### SynapseWorks
-Product experiments focused on AI-assisted delivery governance and workflow automation.
+
+Privacy-first and practical workflow tools for mobile, browser, and enterprise platforms.
 
 - [SynapseWorks](https://synapseworks.org)
 - [Synapse – AI Jira Refinement Tool](https://synapseworks.org/products/)
@@ -52,6 +67,9 @@ Product experiments focused on AI-assisted delivery governance and workflow auto
   <img src="https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Forge-0052CC?logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
@@ -66,3 +84,4 @@ Product experiments focused on AI-assisted delivery governance and workflow auto
 - LinkedIn: [linkedin.com/in/lucianirimie](https://www.linkedin.com/in/lucianirimie/)
 - Website: [lucianirimie.com](https://lucianirimie.com)
 - Products: [synapseworks.org](https://synapseworks.org)
+- PageHarbor: [github.com/lucianRME/pageharbor-android](https://github.com/lucianRME/pageharbor-android)
