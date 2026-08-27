@@ -2,9 +2,9 @@
 
 **Technical Program Manager | Enterprise Platforms | Delivery Governance & AI Transformation**
 
-I work at the intersection of enterprise delivery, platform operations, delivery governance, and practical technology products.
+I work across complex technology delivery, enterprise platforms, governance, and applied AI.
 
-I help turn fragmented initiatives into structured execution through cross-team coordination, dependency management, workflow automation, and clear delivery visibility. I also build privacy-first and AI-assisted tools for mobile, browser, and enterprise workflows.
+My focus is turning fragmented initiatives into clearer priorities, ownership, dependencies, decisions, and execution. Alongside enterprise delivery work, I build focused software products through SynapseWorks.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucianirimie/">
@@ -16,72 +16,73 @@ I help turn fragmented initiatives into structured execution through cross-team 
   <a href="https://synapseworks.org">
     <img src="https://img.shields.io/badge/SynapseWorks-Products-purple?logo=github" />
   </a>
-  <a href="https://github.com/sponsors/lucianRME">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=lucianRME&label=Profile%20views&color=blue" />
 </p>
 
 ---
 
-## What I focus on
+## What I work on
 
-- Technical program delivery across product, engineering, and business teams
-- Delivery governance, dependency management, and execution visibility
-- Enterprise platforms, workflow automation, and operational improvement
-- Practical AI use cases for delivery and business operations
-- Privacy-first product development and local-first tooling
-- Building focused, useful tools before scaling ideas
+- **Enterprise delivery** — priorities, dependencies, governance, risk, and cross-team execution
+- **Platform operating models** — ways of working that improve delivery without unnecessary process
+- **Technology transformation** — connecting business outcomes, engineering delivery, and organisational change
+- **Applied AI** — practical uses of AI in delivery, governance, and workflow design
+- **Product building** — privacy-conscious software for mobile, browser, and enterprise workflows
 
 ---
 
-## Current projects
+## Selected product work
 
 ### PageHarbor
 
-An open-source, privacy-first Android document scanner designed around local processing and user-controlled storage.
+Open-source Android document scanner designed around local processing and user-controlled storage.
 
 - No ads
 - No tracking
 - No account required
-- No proprietary cloud backend
-- Offline-first where practical
+- Offline-first document workflows
+- Available on Google Play
 
-[View PageHarbor on GitHub](https://github.com/lucianRME/pageharbor-android)
+[GitHub](https://github.com/lucianRME/pageharbor-android) · [Product page](https://synapseworks.org/pageharbor/)
+
+### Submit Guard
+
+A Chrome extension that helps prevent accidental form submissions before they happen.
+
+Built around a simple principle: useful protection without tracking or unnecessary data collection.
+
+[Product page](https://synapseworks.org/products/browser-tools/)
 
 ### SynapseWorks
 
-Privacy-first and practical workflow tools for mobile, browser, and enterprise platforms.
+SynapseWorks is where I build and publish focused software across Chrome, Android, and Atlassian workflows.
 
-- [SynapseWorks](https://synapseworks.org)
-- [Synapse – AI Jira Refinement Tool](https://synapseworks.org/products/)
-- [Decision Register for Jira](https://synapseworks.org/products/)
-- [Submit Guard – Chrome Extension](https://synapseworks.org/products/browser-tools/)
+Earlier product work also explored Atlassian/Jira tooling for decision capture and backlog refinement.
+
+[Explore SynapseWorks](https://synapseworks.org/)
 
 ---
 
-## Tech and tools I work with
+## Technology
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forge-0052CC?logo=atlassian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Tools-412991?logo=openai&logoColor=white" />
-</p>
+I work across delivery platforms, cloud services, automation, mobile development, and AI-enabled workflows.
+
+`Jira` · `Atlassian` · `GitHub` · `Kotlin` · `Android` · `Jetpack Compose` · `Python` · `Azure` · `Cloudflare`
+
+---
+
+## Current interests
+
+- Enterprise AI adoption and governance
+- Platform transformation and operating models
+- Delivery systems that improve visibility without creating bureaucracy
+- Building small, useful software products with clear privacy boundaries
 
 ---
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/lucianirimie](https://www.linkedin.com/in/lucianirimie/)
-- Website: [lucianirimie.com](https://lucianirimie.com)
-- Products: [synapseworks.org](https://synapseworks.org)
-- PageHarbor: [github.com/lucianRME/pageharbor-android](https://github.com/lucianRME/pageharbor-android)
+- [LinkedIn](https://www.linkedin.com/in/lucianirimie/)
+- [lucianirimie.com](https://lucianirimie.com)
+- [SynapseWorks](https://synapseworks.org)
+- [PageHarbor on GitHub](https://github.com/lucianRME/pageharbor-android)
