@@ -35,16 +35,17 @@ My focus is turning fragmented initiatives into clearer priorities, ownership, d
 
 ### RME: PDF & Document Scanner
 
-Open-source Android document scanner designed around local processing, offline OCR, and user-controlled storage.
+Open-source, privacy-first Android scanner with multilingual on-device OCR, full-library search, searchable PDFs, migration and portable backup.
 
-- Offline OCR and searchable PDFs
-- Local document processing
-- No ads
-- No tracking or analytics
-- No account required
+- Multilingual on-device OCR
+- Full-library OCR search and jump-to-page
+- OCR review, correction and batch recognition
+- Searchable PDFs
+- No ads, tracking or RME account
+- No `INTERNET` permission requested by RME
 - Available on Google Play and GitHub
 
-[GitHub](https://github.com/lucianRME/rme-pdf-scanner) · [Product page](https://synapseworks.org/pageharbor/)
+[GitHub](https://github.com/lucianRME/rme-pdf-scanner) · [Product page](https://synapseworks.org/rme-pdf-scanner/)
 
 ### Submit Guard
 
