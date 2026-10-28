@@ -87,4 +87,4 @@ I work across delivery platforms, cloud services, automation, mobile development
 - [LinkedIn](https://www.linkedin.com/in/lucianirimie/)
 - [lucianirimie.com](https://lucianirimie.com)
 - [SynapseWorks](https://synapseworks.org)
-- [RME PDF Scanner on GitHub](https://github.com/lucianRME/rme-pdf-scanner)
+- [RME: Private PDF Scanner on GitHub](https://github.com/lucianRME/rme-pdf-scanner)
