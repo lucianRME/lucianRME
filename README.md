@@ -33,7 +33,7 @@ My focus is turning fragmented initiatives into clearer priorities, ownership, d
 
 ## Selected product work
 
-### RME: PDF & Document Scanner
+### RME: Private PDF Scanner
 
 Open-source, privacy-first Android scanner with multilingual on-device OCR, full-library search, searchable PDFs, migration and portable backup.
 
